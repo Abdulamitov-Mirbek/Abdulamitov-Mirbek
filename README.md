@@ -3,19 +3,13 @@
 
 # About Me
 
-Hi, I'm Mirbek! 👋
+# About Me
 
-I'm an **18-year-old Full-Stack Developer** with a passion for **JavaScript** and web development. I love turning ideas into real projects through code.  
+My name is **Mirbek**, and I am an 18-year-old Full-Stack Developer specializing in **JavaScript**.
+I am dedicated to building robust web applications and continuously improving my skills through hands-on experience and real projects.  
 
-✨ **A little about me:**
-- 💻 Full-Stack Developer (JavaScript / Node.js / React)
-- 🚀 Completed 2 projects so far
-- 🎯 Always learning new technologies and improving my skills
-- 🌱 Exploring advanced web development and frameworks
+I have completed **two full projects** and approach every challenge with focus, discipline, and a commitment to learning.
+I take pride in writing clean, efficient, and maintainable code.  
 
-💡 **My goals:**
-- Build innovative web applications
-- Level up as a developer every day
-- Create projects that make an impact
-
-⚡ **Fun fact:** I code because I love solving problems and seeing my ideas come to life!  
+My goal is to grow as a developer, tackle complex problems, and contribute to projects that have a real impact. 
+I am serious about my craft, and I see every line of code as an opportunity to improve and innovate.  
