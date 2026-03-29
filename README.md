@@ -3,8 +3,6 @@
 
 # About Me
 
-# About Me
-
 My name is **Mirbek**, and I am an 18-year-old Full-Stack Developer specializing in **JavaScript**.
 I am dedicated to building robust web applications and continuously improving my skills through hands-on experience and real projects.  
 
