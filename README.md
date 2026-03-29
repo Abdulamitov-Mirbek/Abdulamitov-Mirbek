@@ -1,9 +1,9 @@
-## Bio
+# Bio
 💻 Full-Stack Developer | JavaScript | 18 y/o | Passionate Coder 🚀
 
-## About Me
+# About Me
 
-# Hi, I'm Mirbek! 👋
+Hi, I'm Mirbek! 👋
 
 I'm an **18-year-old Full-Stack Developer** with a passion for **JavaScript** and web development. I love turning ideas into real projects through code.  
 
