@@ -19,10 +19,12 @@ I build production web applications with TypeScript, Next.js, and Nest.js, backe
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 **Frontend** · JavaScript (ES6+) · TypeScript · React · Next.js (App Router, Server Actions) · Zustand · Tailwind CSS · Framer Motion<br>
-**Backend** · Node.js · Nest.js · Express · Python (Flask) · REST APIs<br>
-**Data** · PostgreSQL · Prisma ORM · transactions, indexing, query optimization<br>
+**Backend** · Node.js · Nest.js · Express · Python (Django, Flask) · REST APIs<br>
+**Data** · PostgreSQL · Prisma ORM · Supabase · transactions, indexing, query optimization<br>
 **Infra** · Docker · Vercel · Pusher (WebSockets) · Git
 
 ---
@@ -38,8 +40,11 @@ Backend services with custom middleware for rate limiting, strict Content Securi
 **TMDB Movie Platform**
 A media discovery app built on the TMDB API, focused on fast client-side rendering and clean global state management.
 
-**Navis**
-Commercial marketing sites built for traffic and responsiveness, with Tailwind CSS and Framer Motion handling the interaction layer.
+**Pythonoku** — [pythonoku.edu.kg](https://www.pythonoku.edu.kg/)
+An education platform for teaching Python, running on a `.edu.kg` domain. React and JavaScript on the frontend, Django and PostgreSQL on the backend — a deliberate switch out of the Node ecosystem, since Django's ORM and admin layer fit content-driven educational tooling better than rebuilding the same thing in Express. Live and serving real users.
+
+**IT-ADIS** — [live demo](http://13.60.233.228)
+A platform built end to end in TypeScript: React on the frontend, Nest.js on the backend, with Supabase handling data and authentication. Nest.js gave the backend a modular structure with dependency injection, so features stay isolated as the codebase grows. I also handled deployment myself onto a Linux server rather than relying on a managed platform — provisioning, environment configuration, and keeping the process running are part of my work here, not someone else's.
 
 ---
 
