@@ -48,6 +48,12 @@ A platform built end to end in TypeScript: React on the frontend, Nest.js on the
 
 ---
 
+### How I work
+
+I use AI tooling (Cursor, Codex, Claude) as part of my daily workflow — scaffolding, refactors, and exploring unfamiliar APIs. I review everything that ships and stay responsible for the architecture: the transaction model in Grayton and the deployment setup for IT-ADIS were decisions I made and can defend line by line.
+
+---
+
 ### Currently
 
 Going deeper on Nest.js architecture — modules, dependency injection, guards, and interceptors — and on database performance work.
